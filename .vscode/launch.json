@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DentalApplication<denti>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.module.dental.denti.DentalApplication",
+            "projectName": "denti",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
